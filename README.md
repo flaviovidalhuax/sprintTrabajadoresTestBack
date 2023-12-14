@@ -1,8 +1,8 @@
-#### Descargar de GITHUB con la siguiente link:
-https://github.com/flaviovidalhuax/TestSprintboot
+#### Descargar el backend hecho spring boot 
+https://github.com/flaviovidalhuax/sprintTrabajadoresTestBack.git
 - clonar el proyecto
 - crear una carpeta donde seguarda el proyecto
-- git clone https://github.com/flaviovidalhuax/TestSprintboot
+- git clone https://github.com/flaviovidalhuax/sprintTrabajadoresTestBack.git
 - ejecutar 
  
 #### descargar el proyectp echo en react para consumir el proyecto creado el backen en spring boot.
